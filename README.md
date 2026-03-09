@@ -1,5 +1,7 @@
 # Fly Emirates Flight Performance Dashboard
 
+![Dashboard](Screenshot%20(406).png)
+
 This project is a Power BI dashboard that analyzes flight performance and passenger trends for Emirates Airlines.
 
 ## 📊 Dashboard Features
